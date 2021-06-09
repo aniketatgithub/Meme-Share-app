@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemeShare</string>
+    <string name="about">Hello :) This basic app which Shows you Reddit memes \n(USER DISCRETION ADVICED: This app may show some obscene memes as they are not controlled by me!)  \nI will be really happy to get any comment on how can this app be better or if there are any bugs. Image loads slower as Reddit image vary from 50kb to 5mb, will be making it efficient in future updates .</string>
+
+</resources>
